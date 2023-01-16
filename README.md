@@ -12,7 +12,7 @@ Click here to see live demo [click here](https://apna-bazaar.herokuapp.com/)
 <br>
 
 <p>Home page listing all the products</p>
-<img src="[/images/img2.jpeg](https://user-images.githubusercontent.com/101960479/185788214-be3ed872-67cf-46b1-b86a-8dbc7683e5e3.png)" alt="cart-dropdown" style="width:750px"/>
+<img src="https://user-images.githubusercontent.com/101960479/185788214-be3ed872-67cf-46b1-b86a-8dbc7683e5e3.png" alt="cart-dropdown" style="width:750px"/>
 
 <br>
 <br>
